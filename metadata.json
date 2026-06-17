@@ -1,0 +1,6 @@
+{
+  "name": "UseOnline",
+  "description": "An interactive Android Marketplace Simulator & Code Explorer for the UseOnline multi-vendor shop application, featuring RTL, Persian (Farsi) localization, and a complete Clean Architecture codebase viewer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
